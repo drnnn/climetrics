@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/climetrics/static/css/main.9dd93b13.css",
+    "main.js": "/climetrics/static/js/main.40872b30.js",
+    "static/media/bigstock-Modern-Green-Background-1135714.jpg": "/climetrics/static/media/bigstock-Modern-Green-Background-1135714.791711de0ffd3d16d1e7.jpg",
+    "index.html": "/climetrics/index.html",
+    "main.9dd93b13.css.map": "/climetrics/static/css/main.9dd93b13.css.map",
+    "main.40872b30.js.map": "/climetrics/static/js/main.40872b30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd93b13.css",
+    "static/js/main.40872b30.js"
+  ]
+}
